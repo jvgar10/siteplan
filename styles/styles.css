@@ -110,4 +110,15 @@ nav a {
 main section img {
   box-sizing: border-box;
 }
-   
+
+body, button, input, select, textarea {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 3;
+    color: black;
+}
+
+
+
+
